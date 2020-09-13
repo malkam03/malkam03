@@ -6,4 +6,7 @@ Thanks for passing by, you can feel free to contact me or collaborate to my proj
 ### The last week I've been working on:
 
 <!--START_SECTION:waka-->
+```text
+Markdown   4 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
 <!--END_SECTION:waka-->
